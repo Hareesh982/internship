@@ -1,0 +1,140 @@
+body
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p,li
+{
+    font-size: 18px;
+}
+.one
+{
+    color: brown;
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 20px;
+}
+#data
+{
+    border: 1px solid white;
+    border-radius: 12px;
+    text-align: center;
+}
+.covid_data
+{
+    display: flex;
+    margin:0px 60px 0px 60px;
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border : 2px solid rgb(193, 193, 209);
+    padding: 40px 15px 40px 15px;
+    border-radius: 10px;
+    background-color: cadetblue;
+    
+}
+.cases
+{
+    background-color: #95B6CF;
+    padding: 5px 35px 5px 35px;
+}
+.discharged
+{
+    background-color: #51CC51;
+    margin-left: 80px;
+    padding: 5px 35px 5px 35px;
+}
+.deaths
+{
+    background-color: #FF9C9C;
+    margin-left: 80px;
+    padding: 5px 50px 5px 50px;
+}
+.active
+{
+    background-color: #6FB5E3;
+    margin-left: 80px;
+    padding: 5px 30px 5px 30px;
+}
+.vaccine
+{
+    background-color: #CBBEB5;
+    margin-left: 80px;
+    padding: 10px 10px;
+}
+.official
+{
+    margin: 0px 60px 0px 60px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.symp_covid
+{
+    padding: 0px 60px 0px 60px;
+    display: flex;
+}
+.symptoms
+{
+    
+    padding: 0px 10px 0px 10px;
+    width: 50%;
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+}
+.precautions
+{
+    
+    padding: 0px 10px 0px 10px;
+    width: 50%;
+    border-radius: 8px;
+    margin-left: 10px;
+}
+h4
+{
+    text-decoration: underline;
+    color: rgb(135, 209, 209);
+    font-size: 18px;
+}
+.main
+{
+    padding: 10px;
+    background-color: rgb(215, 235, 235);
+    border-radius: 6px;
+    color: rgb(68, 68, 119);
+}
+footer
+{
+    background-color: rgb(19, 18, 18);
+    width: 100%;
+    padding: 20px 0px 20px 0px;
+    color: white;
+    display:inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.image
+{
+    margin-top: 150px;
+}
+.article
+{
+    margin: 0px 60px 0px 60px;
+}
+.sub_article
+{
+    display: flex;
+}
+.sub_article_1
+{
+    width: 70%;
+    text-align: justify;
+}
+.article2
+{
+    text-align: justify;
+}
+.government
+{
+    margin: 30px 60px 0px 60px;
+}
+a:hover
+{
+    color: blue;
+}
